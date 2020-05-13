@@ -1,2 +1,2 @@
-# ngrx-redux
-NgRx Store provides reactive state management for Angular apps inspired by Redux
+# ngrx-weather
+An example of how to use Ngrx on a simple Angular app
